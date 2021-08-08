@@ -5,7 +5,7 @@
 
 <h3><samp>I'm Stefany Biskup.</samp></h3>
   
-- :books: <samp><b>Currently Learning:</b> Vue.js, JavaScript/TypeScript and Node.js.</samp>
+- :books: <samp><b>Currently Learning:</b> Vue.js, JavaScript/TypeScript, Python and Node.js.</samp>
 - :pushpin: <samp><b>Interests:</b> Software Engineering and Agile Methodologies.</samp>
 
 <h3><samp>Languages and Tools:</samp></h3>
