@@ -1,4 +1,4 @@
-# 👋 <samp>Hey!</samp
+# 👋 <samp>Hey!</samp>
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/teffybiskup)](https://dev.to/teffybiskup)
   
 - :books: <samp><b>Currently Learning:</b> React, JavaScript/TypeScript, Python and Vue.js.</samp>
