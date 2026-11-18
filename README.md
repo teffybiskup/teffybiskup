@@ -6,7 +6,6 @@
 [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:stefany.biskup@gmail.com)
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/teffybiskup)
 
-- <samp> <b> Open to: </b> Senior Software Engineer roles (front-end focused / full-stack);</samp>
 - <samp> <b> Stack: </b> React, Vue, TypeScript/JavasScript, Ruby on Rails, Python;</samp>
 - <samp> <b> Exploring: </b> AI-assisted development workflows;</samp>
 - <samp> <b> Interests: </b> Software engineering, product quality and agile practices.</samp>
